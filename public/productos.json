@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Café Colombia 1Kg",
+    "precio": 75500,
+    "stock": 20,
+    "imagen": "/img/Café_Colombia.png",
+    "resena": "Café suave y equilibrado, con notas dulces y un aroma intenso. Ideal para disfrutar en cualquier momento del día."
+  },
+  {
+    "id": 2,
+    "nombre": "Café Brasil 1Kg",
+    "precio": 73000,
+    "stock": 20,
+    "imagen": "/img/Café_Brasil.png",
+    "resena": "Café de cuerpo intenso y sabor envolvente, con notas de chocolate y frutos secos. Ideal para espresso."
+  },
+  {
+    "id": 3,
+    "nombre": "Café Etiopía 1Kg",
+    "precio": 100000,
+    "stock": 10,
+    "imagen": "/img/Café_de_Etiopía.png",
+    "resena": "Café aromático y delicado, con notas frutales y florales. Una opción ideal para quienes buscan sabores más complejos."
+  },
+  {
+  "id": 4,
+  "nombre": "Café Perú 1Kg",
+  "precio": 78500,
+  "stock": 10,
+  "imagen": "/img/Café_Peru.png",
+  "resena": "Café suave y dulce, con notas de chocolate y frutos secos. Ideal para quienes prefieren sabores equilibrados."
+},
+{
+  "id": 5,
+  "nombre": "Café Guatemala 1Kg",
+  "precio": 82000,
+  "stock": 15,
+  "imagen": "/img/Café_Guatemala.png",
+  "resena": "Café de cuerpo medio y aroma intenso, con agradables notas de cacao y un sabor persistente."
+},
+{
+  "id": 6,
+  "nombre": "Café Costa Rica 1Kg",
+  "precio": 86500,
+  "stock": 15,
+  "imagen": "/img/Café_Costa_Rica.png",
+  "resena": "Café equilibrado y aromático, con notas frutales y un delicado toque cítrico."
+},
+{
+  "id": 7,
+  "nombre": "Café Kenia 1Kg",
+  "precio": 112000,
+  "stock": 20,
+  "imagen": "/img/Café_Kenia.png",
+  "resena": "Café intenso y aromático, con notas frutales y una acidez marcada que le aporta un carácter especial."
+}
+]
